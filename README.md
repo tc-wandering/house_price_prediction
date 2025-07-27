@@ -1,10 +1,10 @@
-# 🏡 House Price Prediction
+# House Price Prediction
 
 A Google Colab notebook for predicting house prices using machine learning techniques on structured data.
 
 ---
 
-## 🌟 Highlights
+## Highlights
 - Implements data preprocessing, feature selection, and model training
 - Uses regression models to predict house prices based on multiple variables
 - Visualizes key trends and model performance
@@ -12,7 +12,7 @@ A Google Colab notebook for predicting house prices using machine learning techn
 
 ---
 
-## ℹ Overview
+## Overview
 
 This notebook presents a practical machine learning project focused on predicting housing prices based on features like location, square footage, number of bedrooms, etc.
 
@@ -24,7 +24,7 @@ It includes:
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Open the notebook in Colab:
    [Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/house-price-prediction/house_price_prediction.ipynb)
@@ -36,7 +36,7 @@ It includes:
 
 ---
 
-## ⬇ Installation (For Local Use)
+## Installation (For Local Use)
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
